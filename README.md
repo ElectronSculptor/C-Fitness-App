@@ -37,6 +37,14 @@ The formulas used in the application:
 
 ---
 
+## 🛠️ How to Run and Test the Application Locally
+Navigate to the project folder and execute the compiled file:
+
+```make
+./fitness_app
+
+---
+
 ## 📌 How It Works
 The user can:
 1. **Create a profile**  
