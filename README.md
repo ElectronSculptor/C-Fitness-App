@@ -38,7 +38,7 @@ The formulas used in the application:
 ---
 
 ## 🛠️ How to Run and Test the Application Locally
-Navigate to the project folder and execute the compiled file:
+Navigate to the project folder and run these two commands:
 
 - make
 - ./fitness_app
