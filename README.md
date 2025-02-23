@@ -40,8 +40,9 @@ The formulas used in the application:
 ## 🛠️ How to Run and Test the Application Locally
 Navigate to the project folder and execute the compiled file:
 
-make
-./fitness_app
+- make
+- ./fitness_app
+
 
 ---
 
